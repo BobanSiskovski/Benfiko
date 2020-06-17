@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesla", "Tesla\Tesla.csproj", "{76ED79F1-9D35-40F6-8009-D0DBD94460BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76ED79F1-9D35-40F6-8009-D0DBD94460BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76ED79F1-9D35-40F6-8009-D0DBD94460BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76ED79F1-9D35-40F6-8009-D0DBD94460BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76ED79F1-9D35-40F6-8009-D0DBD94460BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA25987A-8B7E-44A4-8058-BCE31615496F}
+	EndGlobalSection
+EndGlobal
